@@ -1,3 +1,4 @@
-function collectInputData(){
-            alert("Yay, JS code runs");
-        }collectInputData()
+function collectInputData() {
+        alert("Yay, JS code runs");
+}
+    
