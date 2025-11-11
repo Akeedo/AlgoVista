@@ -1,3 +1,3 @@
- function showmessage(){
+function collectInputData(){
             alert("Yay, JS code runs");
-        }showmessage()
+        }collectInputData()
