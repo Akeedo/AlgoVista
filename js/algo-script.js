@@ -1,4 +1,6 @@
+//const myInput = document.getElementById('myInput');
 function collectInputData() {
-        alert("Yay, JS code runs");
+        const input = document.getElementById('searchInput').value;
+        alert(input);
 }
-    
+
